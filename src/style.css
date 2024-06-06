@@ -52,6 +52,7 @@
 .dropdown-description {
     font-size: 0.875rem;
     color: #4b5563; /* Color gris */
+    text-align: left;
 }
 .team-card {
     background-color: white;
